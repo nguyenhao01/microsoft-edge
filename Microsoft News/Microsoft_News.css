@@ -1,0 +1,16 @@
+﻿        #vung2 { background-image: url('images/bgv2.jpeg'); height: 778px; background-size: cover; }
+        #vung2 h1 { margin-bottom:26px; font-size:36px;}
+        .v2Giua{ width: 35%; margin-left: 76px; margin-top: 326px;}
+        .v2Giua a:hover{ color:white; text-decoration:2px underline;}
+
+        .ghdr { padding: 156px 60px 0 28px;}
+        .ghdr2 {  padding: 170px 21px 0 64px;}
+
+         #vung3,#vung4, #vung5, #vung6,#vung7 { margin: 60px}
+         #vung7 { margin: 80px 300px;}
+         #vung7 img { width:60%;}
+         #vung7 a { font-weight:600}
+
+        #vung8 { background-color: #333; color:white; padding: 22px 60px 15px 75px; font-size:11px;}
+        #vung8 a { text-decoration:underline; color: #00bcf2; font-weight:600}
+        #vung8 a :hover { text-decoration:underline; color: red; font-weight:600}

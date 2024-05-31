@@ -1,0 +1,40 @@
+﻿        #vung2 {background-image: url('images/bgv2.jpeg'); height:778px; background-size:cover; font-size: 16px; }
+        #vung2 h1 { margin-bottom:26px;}
+        .v2Giua{ width: 35%; margin-left: 75px; color: white; margin-top: 332px;}
+        .v2Giua a:hover{ color:white; text-decoration:2px underline;}
+
+        #vung3, #vung4, #vung5,#vung10, #vung13 { margin: 30px 60px}
+        #myCarousel, #vung11 { margin: 30px 76px}
+        #vung12 {margin: 96px 150px 40px 150px;}
+        
+        .v7bttom h3 {display:inline; color:black; padding-right:68px; }
+        mark { background-color: #fadc49; padding: 1px 10px; }
+        .col-md-3 { padding: 60px 15px 45px 15px;}
+        .btn-primary { padding: 5px 38px 0px 38px; background-color:#0067b8;}
+        .height_H3 {margin:0;}
+
+        #vung7 img { height:700px;}
+        #vung10 a img  { width:60%}
+        #vung10 button { padding: 0px 38px; background-color:#0067b8; color:white ;border:none; margin:0; height: 60px;}
+        #vung10 h4, #vung11 h4 { margin: 8px 0 4px 0; }
+        .v10dropdown { width:70.5%; border-radius: 1px; margin:0;}
+        #vung10 .glyphicon-menu-down { top: -35px; left: 95px;}
+        #vung10 ul li { display:block;}
+        .glyphicon-save { float:right}
+
+        .bgGray {background-image: url('images/v11.jpeg'); background-size:cover; height: 522px;}
+        .v11bgTrang { width: 26%;float: right; margin: 56px 42px 0 61px; padding: 50px 17px 0 17px; background-color: white;height: 414px;}
+        #vung12 a img {width:60%; }
+        #vung13 h3 { color:black;}
+        #vung13 a { font-weight:600; margin-top: 42px; display: inline-block;}
+        .borderTop {border-top: 1px solid #bebebe; padding-top: 26px;}
+        #vung14 { font-size:11px; background-color:#333; color:white; padding: 25px 0 15px 60px;}
+        #vung14 a { color:#00bcf2; text-decoration:underline;}
+        
+        #vung3 a{ font-weight:600; display: inline-block;}
+        #vung3 h3 { color:black;  margin-bottom: 42px;}
+        #vung3 p, #vung4 p { color:black; font-weight: normal;}
+        #vung4 a{ font-weight:600; display: inline-block;}
+        #vung4 h3 { color:black;  margin:0 0 22px 0;}
+        .ghha{ height:245px; overflow:hidden; margin-bottom: 20px;}
+        .styleA { font-weight:600; padding: 30px 0}

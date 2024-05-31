@@ -1,0 +1,23 @@
+﻿         h3 { font-weight:600; font-size: 20px; color:black }
+        #vung2 { background-image: url('images/bgv2.jpeg'); height: 570px; background-size: contain; }
+        #vung2 h1 { margin-bottom:26px;}
+        .v2Giua{ width: 35%; margin-left: 76px; margin-top: 174px;}
+        .v2Giua a:hover{ color:white; text-decoration:2px underline;}
+         #vung3,#vung4, #vung5, #vung6, #vung8, #vung9, #vung10, #vung11, #vung12 { margin: 30px 60px}
+         #vung4, #vung6 { margin: 30px 77px}
+        .mgLeftRight { margin: 0 108px;}
+        .v4bg { background-image: url('images/v4.jpeg'); height:522px; background-size:cover;}
+        .v4Trang { width: 27%;float: left; margin: 56px 42px 0 50px; padding: 114px 25px 0 25px; background-color: white;height: 414px;
+                   box-shadow: 0px 8px 10px 0px rgb(0 0 0 / 10%);}
+        .v6bg { background-image: url('images/v6.jpeg'); height:522px; background-size:cover;}
+        .v6Trang { width: 27%;float: right; margin: 55px 34px 0 61px; padding: 114px 25px 0 25px; background-color: white;height: 414px;
+                   box-shadow: 0px 8px 10px 0px rgb(0 0 0 / 10%);}
+        #vung7 img { width: 60%;}
+        #vung7 { margin: 0 21px 48px 30px;}
+        #vung7 ul li { padding: 75px 0;}
+        #vung8 p, #vung11 p, #vung12 p { color:black; font-weight:normal}
+        #vung10 img { padding:0 300px;}
+
+        #vung13 { background-color: #333; color: white; padding: 30px 75px; font-size:11px;}
+        #vung13 a { text-decoration:underline; color: #00bcf2; font-weight: 600;}
+        .blockA { display:block; }

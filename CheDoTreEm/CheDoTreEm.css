@@ -1,0 +1,20 @@
+﻿        h3 { color:black;}
+        #vung2 { background-image: url('images/bgv2.jpeg'); height: 778px; background-size: cover; }
+        #vung2 h1 { margin-bottom:26px;}
+        .v2Giua{ width: 35%; margin-left: 85px; color: white; margin-top: 224px;}
+        .v2Giua a:hover{ color:white; text-decoration:2px underline;}
+        
+         #vung5,#vung10, #vung11 { margin: 30px 60px}
+        
+        #vung3 {border:1px solid #bebebe; margin: 75px 117px;}
+        .benTrai { padding: 40px 40px 40px 65px;}
+        .benPhai { padding: 57px 40px 14px 12px;}
+        #vung7 { margin: 25px 70px;}
+        .v5benTrai { width:32.4%; padding: 165px 0px 0 64px;}
+        .v5benPhai { padding: 0 0 0 40px;}
+        #vung9 { margin: 60px 60px;}
+
+        .v6benPhai { width:25.2%; padding: 165px 0px 0 0px;}
+        .v6benTrai { padding: 0 45px 0px 72px;}
+
+        #vung10 a { font-weight:600; margin-top: 42px; display: inline-block;}

@@ -1,0 +1,12 @@
+﻿        #vung2 { background-image: url('images/bgv2.jpeg'); height: 778px; background-size: cover; font-size: 16px;}
+        #vung2 h1 { margin-bottom:26px;}
+        .v2Giua{ width: 35%; margin-left: 85px; color: black; margin-top: 354px;}
+        .v2Giua a:hover{ color:white; text-decoration:2px underline;}
+       
+         #vung3,#vung4, #vung5, #vung6 { margin: 75px 60px}
+         .v3benTrai { width: 33%; padding: 148px 13px 0 64px;}
+         .v3benPhai { padding:0 11px 0 32px;}
+         .v4benTrai { padding:0 28px 0 16px;}
+         .v4benPhai { width: 33%; padding: 148px 58px 0 20px;}
+
+         #vung7 { background-color: #333; color:white; padding: 22px 60px 15px 60px; font-size:11px;}
